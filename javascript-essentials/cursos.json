@@ -1,0 +1,1070 @@
+[
+    {
+        "nome_curso": "ALF - Bacharelado em Administra\u00e7\u00e3o",
+        "nome_curso_historico": "Bacharelado em Administra\u00e7\u00e3o",
+        "nome_campus": "Campus Alta Floresta",
+        "sigla_campus": "ALF"
+    },
+    {
+        "nome_curso": "ALF - Bacharelado em Zootecnia",
+        "nome_curso_historico": "Bacharelado em Zootecnia",
+        "nome_campus": "Campus Alta Floresta",
+        "sigla_campus": "ALF"
+    },
+    {
+        "nome_curso": "ALF - FIC - Atendimento B\u00e1sico \u00e0 Endemias",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Atendimento B\u00e1sico \u00e0 Endemias",
+        "nome_campus": "Campus Alta Floresta",
+        "sigla_campus": "ALF"
+    },
+    {
+        "nome_curso": "ALF - FIC - Cuidador Infantil",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Cuidador Infantil",
+        "nome_campus": "Campus Alta Floresta",
+        "sigla_campus": "ALF"
+    },
+    {
+        "nome_curso": "ALF - FIC - Gest\u00e3o da Empresa Pecu\u00e1ria",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Gest\u00e3o da Empresa Pecu\u00e1ria",
+        "nome_campus": "Campus Alta Floresta",
+        "sigla_campus": "ALF"
+    },
+    {
+        "nome_curso": "ALF - Tecnologia em Gest\u00e3o de Recursos Humanos",
+        "nome_curso_historico": "Tecnologia em Gest\u00e3o de Recursos Humanos",
+        "nome_campus": "Campus Alta Floresta",
+        "sigla_campus": "ALF"
+    },
+    {
+        "nome_curso": "BAG - FIC - Avicultor em Sistemas Alternativos",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Avicultor em Sistemas Alternativos",
+        "nome_campus": "Campus Barra do Gar\u00e7as",
+        "sigla_campus": "BAG"
+    },
+    {
+        "nome_curso": "BAG - FIC - Compet\u00eancias Empreendedoras",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Compet\u00eancias Empreendedoras",
+        "nome_campus": "Campus Barra do Gar\u00e7as",
+        "sigla_campus": "BAG"
+    },
+    {
+        "nome_curso": "BAG - FIC - Compet\u00eancias Empreendedoras para o Produtor Rural",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Compet\u00eancias Empreendedoras para o Produtor Rural",
+        "nome_campus": "Campus Barra do Gar\u00e7as",
+        "sigla_campus": "BAG"
+    },
+    {
+        "nome_curso": "BAG - FIC - Empreendedorismo Feminino com Foco nas M\u00eddias Sociais",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Empreendedorismo Feminino com Foco nas M\u00eddias Sociais",
+        "nome_campus": "Campus Barra do Gar\u00e7as",
+        "sigla_campus": "BAG"
+    },
+    {
+        "nome_curso": "BAG - FIC - Ingl\u00eas B\u00e1sico",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Ingl\u00eas B\u00e1sico",
+        "nome_campus": "Campus Barra do Gar\u00e7as",
+        "sigla_campus": "BAG"
+    },
+    {
+        "nome_curso": "BAG - FIC - Manuten\u00e7\u00e3o de Computadores",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Manuten\u00e7\u00e3o de Computadores",
+        "nome_campus": "Campus Barra do Gar\u00e7as",
+        "sigla_campus": "BAG"
+    },
+    {
+        "nome_curso": "BAG - T\u00e9cnico em Agropecu\u00e1ria Integrado Ao Ensino M\u00e9dio",
+        "nome_curso_historico": "T\u00e9cnico em Agropecu\u00e1ria Integrado Ao Ensino M\u00e9dio",
+        "nome_campus": "Campus Barra do Gar\u00e7as",
+        "sigla_campus": "BAG"
+    },
+    {
+        "nome_curso": "BAG - T\u00e9cnico em Controle Ambiental - Integrado - Matutino  - Barra do Gar\u00e7as",
+        "nome_curso_historico": "Ensino M\u00e9dio T\u00e9cnico Integrado em Controle Ambiental",
+        "nome_campus": "Campus Barra do Gar\u00e7as",
+        "sigla_campus": "BAG"
+    },
+    {
+        "nome_curso": "BAG - Tecnologia em Gest\u00e3o P\u00fablica",
+        "nome_curso_historico": "Tecnologia em Gest\u00e3o P\u00fablica",
+        "nome_campus": "Campus Barra do Gar\u00e7as",
+        "sigla_campus": "BAG"
+    },
+    {
+        "nome_curso": "BLV - Bacharelado em Engenharia de Alimentos",
+        "nome_curso_historico": "Bacharelado em Engenharia de Alimentos",
+        "nome_campus": "Campus Cuiab\u00e1-Bela Vista",
+        "sigla_campus": "BLV"
+    },
+    {
+        "nome_curso": "BLV - Bacharelado em Qu\u00edmica Industrial",
+        "nome_curso_historico": "Bacharelado em Qu\u00edmica Industrial",
+        "nome_campus": "Campus Cuiab\u00e1-Bela Vista",
+        "sigla_campus": "BLV"
+    },
+    {
+        "nome_curso": "BLV - FIC - Processamento, Manipula\u00e7\u00e3o e Comercializa\u00e7\u00e3o de Alimentos",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Processamento, Manipula\u00e7\u00e3o e Comercializa\u00e7\u00e3o de Alimentos",
+        "nome_campus": "Campus Cuiab\u00e1-Bela Vista",
+        "sigla_campus": "BLV"
+    },
+    {
+        "nome_curso": "BLV - Mestrado Profissional em Qu\u00edmica Tecnol\u00f3gica e Ambiental",
+        "nome_curso_historico": "Mestrado Profissional em Qu\u00edmica Tecnol\u00f3gica e Ambiental",
+        "nome_campus": "Campus Cuiab\u00e1-Bela Vista",
+        "sigla_campus": "BLV"
+    },
+    {
+        "nome_curso": "BLV - Tecnologia em Gest\u00e3o Ambiental",
+        "nome_curso_historico": "Tecnologia em Gest\u00e3o Ambiental",
+        "nome_campus": "Campus Cuiab\u00e1-Bela Vista",
+        "sigla_campus": "BLV"
+    },
+    {
+        "nome_curso": "CAS - Engenharia Florestal",
+        "nome_curso_historico": "Engenharia Florestal",
+        "nome_campus": "Campus C\u00e1ceres",
+        "sigla_campus": "CAS"
+    },
+    {
+        "nome_curso": "CAS - FIC - Cervejeiro",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Cervejeiro",
+        "nome_campus": "Campus C\u00e1ceres",
+        "sigla_campus": "CAS"
+    },
+    {
+        "nome_curso": "CAS - FIC - Jardinagem e Paisagismo",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Jardinagem e Paisagismo",
+        "nome_campus": "Campus C\u00e1ceres",
+        "sigla_campus": "CAS"
+    },
+    {
+        "nome_curso": "CAS - FIC - T\u00e9cnico em Cozinha",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em T\u00e9cnico em Cozinha",
+        "nome_campus": "Campus C\u00e1ceres",
+        "sigla_campus": "CAS"
+    },
+    {
+        "nome_curso": "CAS - Licenciatura em Qu\u00edmica",
+        "nome_curso_historico": "Licenciatura em Qu\u00edmica",
+        "nome_campus": "Campus C\u00e1ceres",
+        "sigla_campus": "CAS"
+    },
+    {
+        "nome_curso": "CAS - Tecnologia em Biocombust\u00edveis",
+        "nome_curso_historico": "Tecnologia em Biocombust\u00edveis",
+        "nome_campus": "Campus C\u00e1ceres",
+        "sigla_campus": "CAS"
+    },
+    {
+        "nome_curso": "CBA - Bacharelado em Engenharia El\u00e9trica",
+        "nome_curso_historico": "Bacharelado em Engenharia El\u00e9trica",
+        "nome_campus": "Campus Cuiab\u00e1",
+        "sigla_campus": "CBA"
+    },
+    {
+        "nome_curso": "CBA - Bacharelado em Secretariado Executivo",
+        "nome_curso_historico": "Bacharelado em Secretariado Executivo",
+        "nome_campus": "Campus Cuiab\u00e1",
+        "sigla_campus": "CBA"
+    },
+    {
+        "nome_curso": "CBA - Bacharelado em Turismo",
+        "nome_curso_historico": "Bacharelado em Turismo",
+        "nome_campus": "Campus Cuiab\u00e1",
+        "sigla_campus": "CBA"
+    },
+    {
+        "nome_curso": "CBA - Bacharel em Engenharia da Computa\u00e7\u00e3o",
+        "nome_curso_historico": "Bacharel em Engenharia da Computa\u00e7\u00e3o",
+        "nome_campus": "Campus Cuiab\u00e1",
+        "sigla_campus": "CBA"
+    },
+    {
+        "nome_curso": "CBA - Bacharel em Engenharia de Controle e Automa\u00e7\u00e3o",
+        "nome_curso_historico": "Bacharel em Engenharia de Controle e Automa\u00e7\u00e3o",
+        "nome_campus": "Campus Cuiab\u00e1",
+        "sigla_campus": "CBA"
+    },
+    {
+        "nome_curso": "CBA - FIC - An\u00e1lise Estrutural Utilizando o Software FTOOL",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Educa\u00e7\u00e3o em An\u00e1lise Estrutural Utilizando o Software FTOOL",
+        "nome_campus": "Campus Cuiab\u00e1",
+        "sigla_campus": "CBA"
+    },
+    {
+        "nome_curso": "CBA - FIC - Aquarela e Lettering",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Aquarela e Lettering",
+        "nome_campus": "Campus Cuiab\u00e1",
+        "sigla_campus": "CBA"
+    },
+    {
+        "nome_curso": "CBA - FIC - Defensoras e Defensores Populares",
+        "nome_curso_historico": "Forma\u00e7\u00e3o e Continuada em Defensoras e Defensores Populares",
+        "nome_campus": "Campus Cuiab\u00e1",
+        "sigla_campus": "CBA"
+    },
+    {
+        "nome_curso": "CBA - FIC - Eletricista de Sistemas de Energias Renov\u00e1veis",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Eletricista de Sistemas de Energias Renov\u00e1veis",
+        "nome_campus": "Campus Cuiab\u00e1",
+        "sigla_campus": "CBA"
+    },
+    {
+        "nome_curso": "CBA - FIC - Forma\u00e7\u00e3o Inicial e Continuada de L\u00edngua Portuguesa para Estrangeiros",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada de L\u00edngua Portuguesa para Estrangeiros",
+        "nome_campus": "Campus Cuiab\u00e1",
+        "sigla_campus": "CBA"
+    },
+    {
+        "nome_curso": "CBA - FIC - Forma\u00e7\u00e3o Inicial e Continuada de L\u00edngua Portuguesa para Estrangeiros - Intermedi\u00e1rio",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada de L\u00edngua Portuguesa para Estrangeiros",
+        "nome_campus": "Campus Cuiab\u00e1",
+        "sigla_campus": "CBA"
+    },
+    {
+        "nome_curso": "CBA - FIC - Inclus\u00e3o Digital, Mundo do Trabalho e Empreendedorismo",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Inclus\u00e3o Digital, Mundo do Trabalho e Empreendedorismo",
+        "nome_campus": "Campus Cuiab\u00e1",
+        "sigla_campus": "CBA"
+    },
+    {
+        "nome_curso": "CBA - FIC - Microempreendedor Individual (MEI)",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Microempreendedor Individual (MEI)",
+        "nome_campus": "Campus Cuiab\u00e1",
+        "sigla_campus": "CBA"
+    },
+    {
+        "nome_curso": "CBA - Forma\u00e7\u00e3o Pedag\u00f3gica: Licenciatura em Pedagogia em Educa\u00e7\u00e3o Profissional e Tecnol\u00f3gica - Ept",
+        "nome_curso_historico": "Licenciatura em Pedagogia em Educa\u00e7\u00e3o Profissional e Tecnol\u00f3gica",
+        "nome_campus": "Campus Cuiab\u00e1",
+        "sigla_campus": "CBA"
+    },
+    {
+        "nome_curso": "CBA - Licenciatura em Educa\u00e7\u00e3o F\u00edsica",
+        "nome_curso_historico": "Licenciatura em Educa\u00e7\u00e3o F\u00edsica",
+        "nome_campus": "Campus Cuiab\u00e1",
+        "sigla_campus": "CBA"
+    },
+    {
+        "nome_curso": "CBA - Licenciatura em Pedagogia",
+        "nome_curso_historico": "Licenciatura em Pedagogia",
+        "nome_campus": "Campus Cuiab\u00e1",
+        "sigla_campus": "CBA"
+    },
+    {
+        "nome_curso": "CBA - Licenciatura em Pedagogia",
+        "nome_curso_historico": "Licenciatura em Pedagogia",
+        "nome_campus": "Campus Cuiab\u00e1",
+        "sigla_campus": "CBA"
+    },
+    {
+        "nome_curso": "CBA - Mestrado em Ensino",
+        "nome_curso_historico": "Mestrado  em Ensino",
+        "nome_campus": "Campus Cuiab\u00e1",
+        "sigla_campus": "CBA"
+    },
+    {
+        "nome_curso": "CBA - Mestrado Profissional em Educa\u00e7\u00e3o Profissional e Tecnol\u00f3gica",
+        "nome_curso_historico": "Mestrado Profissional em Educa\u00e7\u00e3o Profissional e Tecnol\u00f3gica",
+        "nome_campus": "Campus Cuiab\u00e1",
+        "sigla_campus": "CBA"
+    },
+    {
+        "nome_curso": "CBA - Tecnologia em Automa\u00e7\u00e3o Industrial",
+        "nome_curso_historico": "Tecnologia em Automa\u00e7\u00e3o Industrial",
+        "nome_campus": "Campus Cuiab\u00e1",
+        "sigla_campus": "CBA"
+    },
+    {
+        "nome_curso": "CBA - Tecnologia em Constru\u00e7\u00e3o de Edif\u00edcios",
+        "nome_curso_historico": "Tecn\u00f3logo em Constru\u00e7\u00e3o de Edif\u00edcios",
+        "nome_campus": "Campus Cuiab\u00e1",
+        "sigla_campus": "CBA"
+    },
+    {
+        "nome_curso": "CBA - Tecnologia em Controle de Obras",
+        "nome_curso_historico": "Tecn\u00f3logo em Controle  de Obras",
+        "nome_campus": "Campus Cuiab\u00e1",
+        "sigla_campus": "CBA"
+    },
+    {
+        "nome_curso": "CBA - Tecnologia em Geoprocessamento",
+        "nome_curso_historico": "Tecn\u00f3logo em Geoprocessamento",
+        "nome_campus": "Campus Cuiab\u00e1",
+        "sigla_campus": "CBA"
+    },
+    {
+        "nome_curso": "CBA - Tecnologia em Redes de Computadores",
+        "nome_curso_historico": "Tecnologia em Redes de Computadores",
+        "nome_campus": "Campus Cuiab\u00e1",
+        "sigla_campus": "CBA"
+    },
+    {
+        "nome_curso": "CBA - Tecnologia em Sistemas para Internet",
+        "nome_curso_historico": "Tecnologia em Sistemas para Internet",
+        "nome_campus": "Campus Cuiab\u00e1",
+        "sigla_campus": "CBA"
+    },
+    {
+        "nome_curso": "CBA - Tecnologia em Sistemas para Internet - UAB",
+        "nome_curso_historico": "Tecnologia em Sistemas para Internet",
+        "nome_campus": "Campus Cuiab\u00e1",
+        "sigla_campus": "CBA"
+    },
+    {
+        "nome_curso": "CFS - Bacharelado em Agronomia",
+        "nome_curso_historico": "Bacharelado em Agronomia",
+        "nome_campus": "Campus Confresa",
+        "sigla_campus": "CFS"
+    },
+    {
+        "nome_curso": "CFS - Especializa\u00e7\u00e3o em Solos e Nutri\u00e7\u00e3o de Plantas",
+        "nome_curso_historico": "Especializa\u00e7\u00e3o em Solos e Nutri\u00e7\u00e3o de Plantas",
+        "nome_campus": "Campus Confresa",
+        "sigla_campus": "CFS"
+    },
+    {
+        "nome_curso": "CFS - FIC - Agricultura e Pecu\u00e1ria de Base Agroecol\u00f3gica",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Agricultura e Pecu\u00e1ria de Base Agroecol\u00f3gica",
+        "nome_campus": "Campus Confresa",
+        "sigla_campus": "CFS"
+    },
+    {
+        "nome_curso": "CFS - FIC - Direitos Humanos e Garantias Fundamentais",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Direitos Humanos e Garantias Fundamentais",
+        "nome_campus": "Campus Confresa",
+        "sigla_campus": "CFS"
+    },
+    {
+        "nome_curso": "CFS - FIC - Panifica\u00e7\u00e3o",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Panifica\u00e7\u00e3o",
+        "nome_campus": "Campus Confresa",
+        "sigla_campus": "CFS"
+    },
+    {
+        "nome_curso": "CFS - FIC - Piscicultor",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Piscicultor",
+        "nome_campus": "Campus Confresa",
+        "sigla_campus": "CFS"
+    },
+    {
+        "nome_curso": "CFS - Licenciatura em Biologia",
+        "nome_curso_historico": "Licenciatura em Biologia",
+        "nome_campus": "Campus Confresa",
+        "sigla_campus": "CFS"
+    },
+    {
+        "nome_curso": "CFS - Licenciatura em Ci\u00eancias da Natureza com Habilita\u00e7\u00e3o em Qu\u00edmica",
+        "nome_curso_historico": "Licenciatura em Ci\u00eancias da Natureza com Habilita\u00e7\u00e3o em Qu\u00edmica",
+        "nome_campus": "Campus Confresa",
+        "sigla_campus": "CFS"
+    },
+    {
+        "nome_curso": "CFS - Licenciatura em F\u00edsica",
+        "nome_curso_historico": "Licenciatura em F\u00edsica",
+        "nome_campus": "Campus Confresa",
+        "sigla_campus": "CFS"
+    },
+    {
+        "nome_curso": "CNP - Bacharelado em Agronomia",
+        "nome_curso_historico": "Bacharelado em Agronomia",
+        "nome_campus": "Campus Campo Novo do Parecis",
+        "sigla_campus": "CNP"
+    },
+    {
+        "nome_curso": "CNP - FIC - Gest\u00e3o Financeira para Cooperativas e Cooperados",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Gest\u00e3o Financeira para Cooperativas e Cooperados",
+        "nome_campus": "Campus Campo Novo do Parecis",
+        "sigla_campus": "CNP"
+    },
+    {
+        "nome_curso": "CNP - FIC - L\u00edngua Brasileira de Sinais -Libras B\u00e1sico",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em L\u00edngua Brasileira de Sinais",
+        "nome_campus": "Campus Campo Novo do Parecis",
+        "sigla_campus": "CNP"
+    },
+    {
+        "nome_curso": "CNP - FIC - Reciclagem de Res\u00edduos S\u00f3lidos Org\u00e2nicos - Compostagem",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Reciclagem de Res\u00edduos S\u00f3lidos Org\u00e2nicos - Compostagem",
+        "nome_campus": "Campus Campo Novo do Parecis",
+        "sigla_campus": "CNP"
+    },
+    {
+        "nome_curso": "CNP - Licenciatura em Matem\u00e1tica",
+        "nome_curso_historico": "Licenciatura em Matem\u00e1tica",
+        "nome_campus": "Campus Campo Novo do Parecis",
+        "sigla_campus": "CNP"
+    },
+    {
+        "nome_curso": "CNP - T\u00e9cnico em Agropecu\u00e1ria 2016 - Integrado - Integral - Campo Novo do Parecis",
+        "nome_curso_historico": "T\u00e9cnico em Agropecu\u00e1ria Integrado Ao Ensino M\u00e9dio",
+        "nome_campus": "Campus Campo Novo do Parecis",
+        "sigla_campus": "CNP"
+    },
+    {
+        "nome_curso": "CNP - Tecnologia em Agroind\u00fastria",
+        "nome_curso_historico": "Tecnologia em Agroind\u00fastria",
+        "nome_campus": "Campus Campo Novo do Parecis",
+        "sigla_campus": "CNP"
+    },
+    {
+        "nome_curso": "CNP - Tecnologia em Processos Gerenciais",
+        "nome_curso_historico": "Tecnologia em Processos Gerenciais",
+        "nome_campus": "Campus Campo Novo do Parecis",
+        "sigla_campus": "CNP"
+    },
+    {
+        "nome_curso": "CREAD - Especializa\u00e7\u00e3o em Seguran\u00e7a P\u00fablica",
+        "nome_curso_historico": "Especializa\u00e7\u00e3o em Seguran\u00e7a P\u00fablica",
+        "nome_campus": "Campus Barra do Gar\u00e7as",
+        "sigla_campus": "BAG"
+    },
+    {
+        "nome_curso": "CREAD - P\u00f3s-Gradua\u00e7\u00e3o em Doc\u00eancia para a Educa\u00e7\u00e3o Profissional e Tecnol\u00f3gica (DocentEPT)",
+        "nome_curso_historico": "P\u00f3s-Gradua\u00e7\u00e3o em Doc\u00eancia para a Educa\u00e7\u00e3o Profissional e Tecnol\u00f3gica (DocentEPT)",
+        "nome_campus": "Campus Cuiab\u00e1",
+        "sigla_campus": "CBA"
+    },
+    {
+        "nome_curso": "CREAD - P\u00f3s-Gradua\u00e7\u00e3o em Gest\u00e3o Integrada de Seguran\u00e7a P\u00fablica",
+        "nome_curso_historico": "P\u00f3s-Gradua\u00e7\u00e3o em Gest\u00e3o Integrada de Seguran\u00e7a P\u00fablica",
+        "nome_campus": "Campus Avan\u00e7ado Guarant\u00e3 do Norte",
+        "sigla_campus": "GTA"
+    },
+    {
+        "nome_curso": "CREAD - T\u00e9cnico em Desenvolvimento Infantil Subsequente ao N\u00edvel M\u00e9dio",
+        "nome_curso_historico": "T\u00e9cnico em Desenvolvimento Infantil Subsequente ao N\u00edvel M\u00e9dio",
+        "nome_campus": "Reitoria",
+        "sigla_campus": "RTR"
+    },
+    {
+        "nome_curso": "DMT - FIC - Pr\u00e1ticas e Ferramentas Pedag\u00f3gicas",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Pr\u00e1ticas e Ferramentas Pedag\u00f3gicas",
+        "nome_campus": "Campus Diamantino",
+        "sigla_campus": "DMT"
+    },
+    {
+        "nome_curso": "DMT - Licenciatura em Ci\u00eancias Biol\u00f3gicas",
+        "nome_curso_historico": "Licenciatura em Ci\u00eancias Biol\u00f3gicas",
+        "nome_campus": "Campus Diamantino",
+        "sigla_campus": "DMT"
+    },
+    {
+        "nome_curso": "GTA - Bacharelado em Zootecnia",
+        "nome_curso_historico": "Bacharel em Zootecnia",
+        "nome_campus": "Campus Avan\u00e7ado Guarant\u00e3 do Norte",
+        "sigla_campus": "GTA"
+    },
+    {
+        "nome_curso": "GTA - Curso T\u00e9cnico em Agropecu\u00e1ria Integrado Ao Ensino M\u00e9dio",
+        "nome_curso_historico": "T\u00e9cnico em Agropecu\u00e1ria Integrado Ao Ensino M\u00e9dio",
+        "nome_campus": "Campus Avan\u00e7ado Guarant\u00e3 do Norte",
+        "sigla_campus": "GTA"
+    },
+    {
+        "nome_curso": "GTA - Curso T\u00e9cnico em Agropecu\u00e1ria Subsequente Ao Ensino M\u00e9dio",
+        "nome_curso_historico": "T\u00e9cnico em Agropecu\u00e1ria Subsequente Ao Ensino M\u00e9dio",
+        "nome_campus": "Campus Avan\u00e7ado Guarant\u00e3 do Norte",
+        "sigla_campus": "GTA"
+    },
+    {
+        "nome_curso": "GTA - Licenciatura em Ci\u00eancias da Natureza com Habilita\u00e7\u00e3o em Biologia",
+        "nome_curso_historico": "Licenciatura em Ci\u00eancias da Natureza com Habilita\u00e7\u00e3o em Biologia",
+        "nome_campus": "Campus Avan\u00e7ado Guarant\u00e3 do Norte",
+        "sigla_campus": "GTA"
+    },
+    {
+        "nome_curso": "GTA - Tecnologia em Agroind\u00fastria - Noturno",
+        "nome_curso_historico": "Tecn\u00f3logo em Agroind\u00fastria",
+        "nome_campus": "Campus Avan\u00e7ado Guarant\u00e3 do Norte",
+        "sigla_campus": "GTA"
+    },
+    {
+        "nome_curso": "JNA - Bacharelado em Administra\u00e7\u00e3o",
+        "nome_curso_historico": "Bacharelado em Administra\u00e7\u00e3o",
+        "nome_campus": "Campus Ju\u00edna",
+        "sigla_campus": "JNA"
+    },
+    {
+        "nome_curso": "JNA - Licenciatura em Ci\u00eancias Biol\u00f3gicas",
+        "nome_curso_historico": "Licenciatura em Ci\u00eancias Biol\u00f3gicas",
+        "nome_campus": "Campus Ju\u00edna",
+        "sigla_campus": "JNA"
+    },
+    {
+        "nome_curso": "JNA - Licenciatura em Matem\u00e1tica",
+        "nome_curso_historico": "Licenciatura em Matem\u00e1tica",
+        "nome_campus": "Campus Ju\u00edna",
+        "sigla_campus": "JNA"
+    },
+    {
+        "nome_curso": "JNA - T\u00e9cnico em Agropecu\u00e1ria - Integrado - Integral - Ju\u00edna",
+        "nome_curso_historico": "T\u00e9cnico em Agropecu\u00e1ria Integrado Ao Ensino M\u00e9dio",
+        "nome_campus": "Campus Ju\u00edna",
+        "sigla_campus": "JNA"
+    },
+    {
+        "nome_curso": "LRV - Bacharelado em Biotecnologia - Noturno",
+        "nome_curso_historico": "Bacharelado em Biotecnologia",
+        "nome_campus": "Campus Lucas do Rio Verde",
+        "sigla_campus": "LRV"
+    },
+    {
+        "nome_curso": "LRV - FIC - Atualiza\u00e7\u00e3o em Ci\u00eancias da Natureza com \u00eanfase em Biologia",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada para Professores do Ensino Fundamental - Atualiza\u00e7\u00e3o em Ci\u00eancias da Natureza com \u00eanfase em Biologia",
+        "nome_campus": "Campus Lucas do Rio Verde",
+        "sigla_campus": "LRV"
+    },
+    {
+        "nome_curso": "LRV - FIC - Discentes do 9\u00ba ano do Ensino Fundamental\u2013Refor\u00e7ando os Descritores em L\u00edngua Portuguesa",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada para Discentes do 9\u00ba ano do Ensino Fundamental\u2013Refor\u00e7ando os Descritores em L\u00edngua Portuguesa",
+        "nome_campus": "Campus Lucas do Rio Verde",
+        "sigla_campus": "LRV"
+    },
+    {
+        "nome_curso": "LRV - FIC - Espanhol B\u00e1sico",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Espanhol B\u00e1sico",
+        "nome_campus": "Campus Lucas do Rio Verde",
+        "sigla_campus": "LRV"
+    },
+    {
+        "nome_curso": "LRV - FIC - Hist\u00f3ria de Mato Grosso em uma Abordagem Local\/Global",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Hist\u00f3ria de Mato Grosso em uma Abordagem Local\/Global",
+        "nome_campus": "Campus Lucas do Rio Verde",
+        "sigla_campus": "LRV"
+    },
+    {
+        "nome_curso": "LRV - FIC - Ingl\u00eas Avan\u00e7ado",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Ingl\u00eas Avan\u00e7ado",
+        "nome_campus": "Campus Lucas do Rio Verde",
+        "sigla_campus": "LRV"
+    },
+    {
+        "nome_curso": "LRV - FIC - Ingl\u00eas B\u00e1sico",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Ingl\u00eas B\u00e1sico",
+        "nome_campus": "Campus Lucas do Rio Verde",
+        "sigla_campus": "LRV"
+    },
+    {
+        "nome_curso": "LRV - T\u00e9cnico em Biotecnologia Integrado Ao N\u00edvel M\u00e9dio",
+        "nome_curso_historico": "T\u00e9cnico em Biotecnologia Integrado Ao N\u00edvel M\u00e9dio",
+        "nome_campus": "Campus Lucas do Rio Verde",
+        "sigla_campus": "LRV"
+    },
+    {
+        "nome_curso": "PDL - Engenharia de Controle e Automa\u00e7\u00e3o - Integral",
+        "nome_curso_historico": "Engenharia de Controle e Automa\u00e7\u00e3o",
+        "nome_campus": "Campus Primavera do Leste",
+        "sigla_campus": "PDL"
+    },
+    {
+        "nome_curso": "PDL - Licenciatura em Qu\u00edmica",
+        "nome_curso_historico": "Licenciatura em Qu\u00edmica",
+        "nome_campus": "Campus Primavera do Leste",
+        "sigla_campus": "PDL"
+    },
+    {
+        "nome_curso": "PDL - Tecnologia em An\u00e1lise e Desenvolvimento de Sistemas",
+        "nome_curso_historico": "Curso Superior de Tecnologia em An\u00e1lise e Desenvolvimento de Sistemas",
+        "nome_campus": "Campus Primavera do Leste",
+        "sigla_campus": "PDL"
+    },
+    {
+        "nome_curso": "PLC - Bacharelado em Administra\u00e7\u00e3o",
+        "nome_curso_historico": "Bacharelado em Administra\u00e7\u00e3o",
+        "nome_campus": "Campus Pontes e Lacerda",
+        "sigla_campus": "PLC"
+    },
+    {
+        "nome_curso": "PLC - Bacharelado em Sistemas de Informa\u00e7\u00e3o",
+        "nome_curso_historico": "Bacharelado em Sistemas de Informa\u00e7\u00e3o",
+        "nome_campus": "Campus Pontes e Lacerda",
+        "sigla_campus": "PLC"
+    },
+    {
+        "nome_curso": "PLC - FIC - Eletricista de Sistemas de Energias Renov\u00e1veis",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Eletricista de Sistemas de Energia Renov\u00e1veis",
+        "nome_campus": "Campus Pontes e Lacerda",
+        "sigla_campus": "PLC"
+    },
+    {
+        "nome_curso": "PLC - FIC - Eletricista Instalador Predial de Baixa Tens\u00e3o",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Eletricista Instalador Predial de Baixa Tens\u00e3o",
+        "nome_campus": "Campus Pontes e Lacerda",
+        "sigla_campus": "PLC"
+    },
+    {
+        "nome_curso": "PLC - FIC - Empreendedorismo em Comunidades Tradicionais",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Empreendedorismo em Comunidades Tradicionais",
+        "nome_campus": "Campus Pontes e Lacerda",
+        "sigla_campus": "PLC"
+    },
+    {
+        "nome_curso": "PLC - Fic - Libras",
+        "nome_curso_historico": "Libras - Forma\u00e7\u00e3o para Acessibilidade Bil\u00edngue na Perspectiva da Educa\u00e7\u00e3o Inclusiva",
+        "nome_campus": "Campus Pontes e Lacerda",
+        "sigla_campus": "PLC"
+    },
+    {
+        "nome_curso": "PLC - FIC - Libras - Araputanga",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Libras",
+        "nome_campus": "Campus Pontes e Lacerda",
+        "sigla_campus": "PLC"
+    },
+    {
+        "nome_curso": "PLC - FIC - L\u00edngua Brasileira de Sinais (Libras) - B\u00e1sico",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em L\u00edngua Brasileira de Sinais (Libras) - B\u00e1sico",
+        "nome_campus": "Campus Pontes e Lacerda",
+        "sigla_campus": "PLC"
+    },
+    {
+        "nome_curso": "PLC - Licenciatura Plena em F\u00edsica",
+        "nome_curso_historico": "Licenciatura Plena em F\u00edsica",
+        "nome_campus": "Campus Pontes e Lacerda",
+        "sigla_campus": "PLC"
+    },
+    {
+        "nome_curso": "PLC - Tecnologia em Com\u00e9rcio Exterior",
+        "nome_curso_historico": "Curso Superior de Tecnologia em Com\u00e9rcio Exterior",
+        "nome_campus": "Campus Pontes e Lacerda",
+        "sigla_campus": "PLC"
+    },
+    {
+        "nome_curso": "PLC - Tecnologia em Eletrot\u00e9cnica Industrial",
+        "nome_curso_historico": "Curso Superior de Tecnologia em Eletrot\u00e9cnica Industrial",
+        "nome_campus": "Campus Pontes e Lacerda",
+        "sigla_campus": "PLC"
+    },
+    {
+        "nome_curso": "PLC - Tecnologia em Redes de Computadores",
+        "nome_curso_historico": "Curso Superior de Tecnologia em Redes de Computadores",
+        "nome_campus": "Campus Pontes e Lacerda",
+        "sigla_campus": "PLC"
+    },
+    {
+        "nome_curso": "ROO - FIC - Forma\u00e7\u00e3o Inicial e Continuada em Educa\u00e7\u00e3o para os Direitos Humanos",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Educa\u00e7\u00e3o para os Direitos Humanos",
+        "nome_campus": "Campus Rondon\u00f3polis",
+        "sigla_campus": "ROO"
+    },
+    {
+        "nome_curso": "ROO - Forma\u00e7\u00e3o Inicial e Continuada em Empreendedorismo e Inova\u00e7\u00e3o",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Empreendedorismo e Inova\u00e7\u00e3o",
+        "nome_campus": "Campus Rondon\u00f3polis",
+        "sigla_campus": "ROO"
+    },
+    {
+        "nome_curso": "ROO - Licenciatura em Ci\u00eancias da Natureza",
+        "nome_curso_historico": "Licenciatura em Ci\u00eancias da Natureza",
+        "nome_campus": "Campus Rondon\u00f3polis",
+        "sigla_campus": "ROO"
+    },
+    {
+        "nome_curso": "ROO - Tecnologia em An\u00e1lise e Desenvolvimento de Sistemas",
+        "nome_curso_historico": "Tecnologia em An\u00e1lise e Desenvolvimento de Sistemas",
+        "nome_campus": "Campus Rondon\u00f3polis",
+        "sigla_campus": "ROO"
+    },
+    {
+        "nome_curso": "SNP - Especializa\u00e7\u00e3o em Gest\u00e3o Estrat\u00e9gica aplicada \u00e0 Seguran\u00e7a P\u00fablica",
+        "nome_curso_historico": "P\u00f3s Gradua\u00e7\u00e3o Lato Sensu em Gest\u00e3o Estrat\u00e9gica Aplicada \u00e0 Seguran\u00e7a P\u00fablica",
+        "nome_campus": "Campus Avan\u00e7ado Sinop",
+        "sigla_campus": "SNP"
+    },
+    {
+        "nome_curso": "SNP - FIC - Abordagem Integrada das Quest\u00f5es do Enem",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Abordagem Integrada das Quest\u00f5es do Enem",
+        "nome_campus": "Campus Avan\u00e7ado Sinop",
+        "sigla_campus": "SNP"
+    },
+    {
+        "nome_curso": "SNP - FIC -  Auxiliar Administrativo",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Auxiliar Administrativo",
+        "nome_campus": "Campus Avan\u00e7ado Sinop",
+        "sigla_campus": "SNP"
+    },
+    {
+        "nome_curso": "SNP - FIC - Auxiliar em Recursos Humanos",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Auxiliar em Recursos Humanos",
+        "nome_campus": "Campus Avan\u00e7ado Sinop",
+        "sigla_campus": "SNP"
+    },
+    {
+        "nome_curso": "SNP - FIC - Conselheiros dos Direitos e Conselheiros Tutelares da Crian\u00e7a e do Adolescente na Amaz\u00f4nia Legal",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Continuada para Conselheiros dos Direitos e Conselheiros Tutelares da Crian\u00e7a e do Adolescente na Amaz\u00f4nia Legal",
+        "nome_campus": "Campus Avan\u00e7ado Sinop",
+        "sigla_campus": "SNP"
+    },
+    {
+        "nome_curso": "SNP - FIC - Elabora\u00e7\u00e3o de Projetos de Pesquisa",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Elabora\u00e7\u00e3o de Projetos de Pesquisa",
+        "nome_campus": "Campus Avan\u00e7ado Sinop",
+        "sigla_campus": "SNP"
+    },
+    {
+        "nome_curso": "SNP - FIC - Eletricista de Sistemas de Energias Renov\u00e1veis",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Eletricista de Sistemas de Energias Renov\u00e1veis",
+        "nome_campus": "Campus Avan\u00e7ado Sinop",
+        "sigla_campus": "SNP"
+    },
+    {
+        "nome_curso": "SNP - FIC - Espanhol B\u00e1sico",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Espanhol B\u00e1sico",
+        "nome_campus": "Campus Avan\u00e7ado Sinop",
+        "sigla_campus": "SNP"
+    },
+    {
+        "nome_curso": "SNP - FIC - Forma\u00e7\u00e3o dos Profissionais em Educa\u00e7\u00e3o em EJA  EPT Integrada",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Forma\u00e7\u00e3o de Profissionais em Educa\u00e7\u00e3o em EJA EPT Integrada",
+        "nome_campus": "Campus Avan\u00e7ado Sinop",
+        "sigla_campus": "SNP"
+    },
+    {
+        "nome_curso": "SNP - FIC - Formula\u00e7\u00e3o de Ra\u00e7\u00e3o para Bovinos",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Formula\u00e7\u00e3o de Ra\u00e7\u00e3o para Bovinos",
+        "nome_campus": "Campus Avan\u00e7ado Sinop",
+        "sigla_campus": "SNP"
+    },
+    {
+        "nome_curso": "SNP - FIC - Ingl\u00eas B\u00e1sico",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada - Ingl\u00eas B\u00e1sico",
+        "nome_campus": "Campus Avan\u00e7ado Sinop",
+        "sigla_campus": "SNP"
+    },
+    {
+        "nome_curso": "SNP - FIC - Libras B\u00e1sico",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada - Libras B\u00e1sico",
+        "nome_campus": "Campus Avan\u00e7ado Sinop",
+        "sigla_campus": "SNP"
+    },
+    {
+        "nome_curso": "SNP - FIC - Libras B\u00e1sico",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada - Libras B\u00e1sico",
+        "nome_campus": "Campus Avan\u00e7ado Sinop",
+        "sigla_campus": "SNP"
+    },
+    {
+        "nome_curso": "SNP - FIC - L\u00edngua Portuguesa e Cultura Brasileira para Estrangeiros - B\u00e1sico",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada - L\u00edngua Portuguesa e Cultura Brasileira para Estrangeiros",
+        "nome_campus": "Campus Avan\u00e7ado Sinop",
+        "sigla_campus": "SNP"
+    },
+    {
+        "nome_curso": "SNP - FIC - L\u00edngua Portuguesa e Cultura Brasileira para Estrangeiros - Intermedi\u00e1rio",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada - L\u00edngua Portuguesa e Cultura Brasileira para Estrangeiros",
+        "nome_campus": "Campus Avan\u00e7ado Sinop",
+        "sigla_campus": "SNP"
+    },
+    {
+        "nome_curso": "SNP - FIC - L\u00edngua Portuguesa para Estrangeiros",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em L\u00edngua Portuguesa para Estrangeiros",
+        "nome_campus": "Campus Avan\u00e7ado Sinop",
+        "sigla_campus": "SNP"
+    },
+    {
+        "nome_curso": "SNP - FIC - Recreador",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Recreador(a)",
+        "nome_campus": "Campus Avan\u00e7ado Sinop",
+        "sigla_campus": "SNP"
+    },
+    {
+        "nome_curso": "SNP -  Forma\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o em EJA EPT Integrada",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Forma\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o em EJA EPT Integrada",
+        "nome_campus": "Campus Avan\u00e7ado Sinop",
+        "sigla_campus": "SNP"
+    },
+    {
+        "nome_curso": "SNP - T\u00e9cnico em Administra\u00e7\u00e3o Subsequente Ao N\u00edvel M\u00e9dio",
+        "nome_curso_historico": "T\u00e9cnico em Administra\u00e7\u00e3o Subsequente Ao N\u00edvel M\u00e9dio",
+        "nome_campus": "Campus Avan\u00e7ado Sinop",
+        "sigla_campus": "SNP"
+    },
+    {
+        "nome_curso": "SNP - T\u00e9cnico em Automa\u00e7\u00e3o Industrial Integrado Ao N\u00edvel M\u00e9dio - Integral",
+        "nome_curso_historico": "T\u00e9cnico em Automa\u00e7\u00e3o Industrial Integrado Ao Ensino M\u00e9dio",
+        "nome_campus": "Campus Avan\u00e7ado Sinop",
+        "sigla_campus": "SNP"
+    },
+    {
+        "nome_curso": "SNP - T\u00e9cnico em Com\u00e9rcio Subsequente Ao N\u00edvel M\u00e9dio",
+        "nome_curso_historico": "T\u00e9cnico em Com\u00e9rcio Subsequente Ao N\u00edvel M\u00e9dio",
+        "nome_campus": "Campus Avan\u00e7ado Sinop",
+        "sigla_campus": "SNP"
+    },
+    {
+        "nome_curso": "SNP - T\u00e9cnico em Eletromec\u00e2nica Integrado Ao N\u00edvel M\u00e9dio",
+        "nome_curso_historico": "T\u00e9cnico em Eletromec\u00e2nica Integrado Ao N\u00edvel M\u00e9dio",
+        "nome_campus": "Campus Avan\u00e7ado Sinop",
+        "sigla_campus": "SNP"
+    },
+    {
+        "nome_curso": "SNP - T\u00e9cnico em Eletromec\u00e2nica Subsequente Ao N\u00edvel M\u00e9dio",
+        "nome_curso_historico": "T\u00e9cnico em Eletromec\u00e2nica Subsequente Ao N\u00edvel M\u00e9dio",
+        "nome_campus": "Campus Avan\u00e7ado Sinop",
+        "sigla_campus": "SNP"
+    },
+    {
+        "nome_curso": "SNP - T\u00e9cnico em Recursos Humanos Subsequente Ao N\u00edvel M\u00e9dio",
+        "nome_curso_historico": "T\u00e9cnico em Recursos Humanos Subsequente Ao N\u00edvel M\u00e9dio",
+        "nome_campus": "Campus Avan\u00e7ado Sinop",
+        "sigla_campus": "SNP"
+    },
+    {
+        "nome_curso": "SRS - Engenharia Agron\u00f4mica",
+        "nome_curso_historico": "Engenharia Agron\u00f4mica",
+        "nome_campus": "Campus Sorriso",
+        "sigla_campus": "SRS"
+    },
+    {
+        "nome_curso": "SRS - FIC - Pintura em Tela",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Pintura em Tela: Constru\u00e7\u00f5es imag\u00e9ticas confeccionadas por mulheres atendidas no CRAS S\u00e3o Domingos em Sorriso",
+        "nome_campus": "Campus Sorriso",
+        "sigla_campus": "SRS"
+    },
+    {
+        "nome_curso": "SRS - Tecnologia em Gest\u00e3o Ambiental",
+        "nome_curso_historico": "Tecnologia em Gest\u00e3o Ambiental",
+        "nome_campus": "Campus Sorriso",
+        "sigla_campus": "SRS"
+    },
+    {
+        "nome_curso": "SRS - Tecnologia em Produ\u00e7\u00e3o de Gr\u00e3os",
+        "nome_curso_historico": "Tecnologia em Produ\u00e7\u00e3o de Gr\u00e3os",
+        "nome_campus": "Campus Sorriso",
+        "sigla_campus": "SRS"
+    },
+    {
+        "nome_curso": "SVC - Bacharelado em Agronomia - Integral - Campo Verde",
+        "nome_curso_historico": "Bacharelado em Agronomia",
+        "nome_campus": "Campus S\u00e3o Vicente",
+        "sigla_campus": "SVC"
+    },
+    {
+        "nome_curso": "SVC - Bacharelado em Agronomia - Noturno - Campo Verde",
+        "nome_curso_historico": "Bacharelado em Agronomia - Noturno",
+        "nome_campus": "Campus S\u00e3o Vicente",
+        "sigla_campus": "SVC"
+    },
+    {
+        "nome_curso": "SVC - Bacharelado em Zootecnia - Integral - S\u00e3o Vicente",
+        "nome_curso_historico": "Bacharelado em Zootecnia",
+        "nome_campus": "Campus S\u00e3o Vicente",
+        "sigla_campus": "SVC"
+    },
+    {
+        "nome_curso": "SVC - Licenciatura em Ci\u00eancias da Natureza com Habilita\u00e7\u00e3o em Biologia",
+        "nome_curso_historico": "Licenciatura em Ci\u00eancias da Natureza com Habilita\u00e7\u00e3o em Biologia",
+        "nome_campus": "Campus S\u00e3o Vicente",
+        "sigla_campus": "SVC"
+    },
+    {
+        "nome_curso": "SVC - Licenciatura em Ci\u00eancias da Natureza - Jaciara",
+        "nome_curso_historico": "Licenciatura em Ci\u00eancias da Natureza",
+        "nome_campus": "Campus S\u00e3o Vicente",
+        "sigla_campus": "SVC"
+    },
+    {
+        "nome_curso": "SVC - T\u00e9cnico em Agropecu\u00e1ria - Integrado - S\u00e3o Vicente",
+        "nome_curso_historico": "T\u00e9cnico em Agropecu\u00e1ria Integrado Ao N\u00edvel M\u00e9dio",
+        "nome_campus": "Campus S\u00e3o Vicente",
+        "sigla_campus": "SVC"
+    },
+    {
+        "nome_curso": "SVC - T\u00e9cnico em Meio Ambiente Integrado Ao Ensino M\u00e9dio",
+        "nome_curso_historico": "T\u00e9cnico em Meio Ambiente Integrado Ao Ensino M\u00e9dio",
+        "nome_campus": "Campus S\u00e3o Vicente",
+        "sigla_campus": "SVC"
+    },
+    {
+        "nome_curso": "SVC - Tecnologia em Alimentos",
+        "nome_curso_historico": "Tecnologia em Alimentos",
+        "nome_campus": "Reitoria",
+        "sigla_campus": "RTR"
+    },
+    {
+        "nome_curso": "SVC - Tecnologia em An\u00e1lise e Desenvolvimento de Sistemas - Campo Verde",
+        "nome_curso_historico": "Tecnologia em An\u00e1lise e Desenvolvimento de Sistemas",
+        "nome_campus": "Campus S\u00e3o Vicente",
+        "sigla_campus": "SVC"
+    },
+    {
+        "nome_curso": "TGA - FIC - Conselheiros dos Direitos e Conselheiros Tutelares da Crian\u00e7a e do Adolescente na Amaz\u00f4nia Legal",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Continuada para Conselheiros dos Direitos e Conselheiros Tutelares da Crian\u00e7a e do Adolescente na Amaz\u00f4nia Legal",
+        "nome_campus": "Campus Tangara da Serra",
+        "sigla_campus": "TGA"
+    },
+    {
+        "nome_curso": "TGA - FIC - Eletrodin\u00e2mica na Pr\u00e1tica",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Eletrodin\u00e2mica na Pr\u00e1tica",
+        "nome_campus": "Campus Tangara da Serra",
+        "sigla_campus": "TGA"
+    },
+    {
+        "nome_curso": "TGA - FIC em Confeitaria em Alimentos Saud\u00e1veis",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Confeitaria em Alimentos Saud\u00e1veis",
+        "nome_campus": "Campus Tangara da Serra",
+        "sigla_campus": "TGA"
+    },
+    {
+        "nome_curso": "TGA - FIC - Espanhol B\u00e1sico",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Educa\u00e7\u00e3o em Espanhol B\u00e1sico",
+        "nome_campus": "Campus Tangara da Serra",
+        "sigla_campus": "TGA"
+    },
+    {
+        "nome_curso": "TGA - FIC - Fot\u00f3grafo",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Fot\u00f3grafo",
+        "nome_campus": "Campus Tangara da Serra",
+        "sigla_campus": "TGA"
+    },
+    {
+        "nome_curso": "TGA - FIC - Gest\u00e3o de Neg\u00f3cios",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial em Gest\u00e3o de Neg\u00f3cios",
+        "nome_campus": "Campus Tangara da Serra",
+        "sigla_campus": "TGA"
+    },
+    {
+        "nome_curso": "TGA - FIC - Ingl\u00eas B\u00e1sico",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Educa\u00e7\u00e3o em Ingl\u00eas B\u00e1sico",
+        "nome_campus": "Campus Tangara da Serra",
+        "sigla_campus": "TGA"
+    },
+    {
+        "nome_curso": "TGA - FIC - Introdu\u00e7\u00e3o \u00e0 Interpreta\u00e7\u00e3o em L\u00edngua Brasileira de Sinais (libras)",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Introdu\u00e7\u00e3o \u00e0 Interpreta\u00e7\u00e3o em L\u00edngua Brasileira de Sinais (libras)",
+        "nome_campus": "Campus Tangara da Serra",
+        "sigla_campus": "TGA"
+    },
+    {
+        "nome_curso": "TGA - FIC - Pr\u00e1ticas de Atendimento",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Pr\u00e1ticas de Atendimento",
+        "nome_campus": "Campus Tangara da Serra",
+        "sigla_campus": "TGA"
+    },
+    {
+        "nome_curso": "TGA - FIC - Programador Web",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Programador Web",
+        "nome_campus": "Campus Tangara da Serra",
+        "sigla_campus": "TGA"
+    },
+    {
+        "nome_curso": "TGA - FIC - Programador Web",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Programador Web",
+        "nome_campus": "Campus Tangara da Serra",
+        "sigla_campus": "TGA"
+    },
+    {
+        "nome_curso": "TGA - FIC - Recepcionista",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Recepcionista",
+        "nome_campus": "Campus Tangara da Serra",
+        "sigla_campus": "TGA"
+    },
+    {
+        "nome_curso": "TGA - FIC - Rotinas Administrativas",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Educa\u00e7\u00e3o em Rotinas Administrativas",
+        "nome_campus": "Campus Tangara da Serra",
+        "sigla_campus": "TGA"
+    },
+    {
+        "nome_curso": "TGA - FIC - Vendedor",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Vendedor",
+        "nome_campus": "Campus Tangara da Serra",
+        "sigla_campus": "TGA"
+    },
+    {
+        "nome_curso": "TGA - T\u00e9cnico em Administra\u00e7\u00e3o - Integrado",
+        "nome_curso_historico": "T\u00e9cnico em Administra\u00e7\u00e3o Integrado Ao Ensino M\u00e9dio",
+        "nome_campus": "Campus Tangara da Serra",
+        "sigla_campus": "TGA"
+    },
+    {
+        "nome_curso": "TGA - T\u00e9cnico em Alimenta\u00e7\u00e3o Escolar - 2015",
+        "nome_curso_historico": "T\u00e9cnico em Alimenta\u00e7\u00e3o Escolar Subsequente ao Ensino M\u00e9dio",
+        "nome_campus": "Campus Tangara da Serra",
+        "sigla_campus": "TGA"
+    },
+    {
+        "nome_curso": "TGA - T\u00e9cnico em Com\u00e9rcio - Integrado",
+        "nome_curso_historico": "T\u00e9cnico em Com\u00e9rcio  Integrado Ao Ensino M\u00e9dio",
+        "nome_campus": "Campus Tangara da Serra",
+        "sigla_campus": "TGA"
+    },
+    {
+        "nome_curso": "TGA - T\u00e9cnico em Infraestrutura Escolar - 2015",
+        "nome_curso_historico": "T\u00e9cnico em Infraestrutura Escolar Subsequente ao Ensino M\u00e9dio",
+        "nome_campus": "Campus Tangara da Serra",
+        "sigla_campus": "TGA"
+    },
+    {
+        "nome_curso": "TGA - T\u00e9cnico em Infraestrutura Escolar - 2017",
+        "nome_curso_historico": "T\u00e9cnico em Infraestrutura Escolar Subsequente ao Ensino M\u00e9dio",
+        "nome_campus": "Campus Tangara da Serra",
+        "sigla_campus": "TGA"
+    },
+    {
+        "nome_curso": "TGA - T\u00e9cnico em Manuten\u00e7\u00e3o e Suporte em Inform\u00e1tica",
+        "nome_curso_historico": "T\u00e9cnico em Manuten\u00e7\u00e3o e Suporte em Inform\u00e1tica  Integrado Ao Ensino M\u00e9dio",
+        "nome_campus": "Campus Tangara da Serra",
+        "sigla_campus": "TGA"
+    },
+    {
+        "nome_curso": "TGA - T\u00e9cnico em Multimeios Did\u00e1ticos - 2015",
+        "nome_curso_historico": "T\u00e9cnico em Multimeios Did\u00e1ticos Subsequente ao Ensino M\u00e9dio",
+        "nome_campus": "Campus Tangara da Serra",
+        "sigla_campus": "TGA"
+    },
+    {
+        "nome_curso": "TGA - T\u00e9cnico em Recursos Humanos - Integrado",
+        "nome_curso_historico": "T\u00e9cnico em Recursos Humanos  Integrado Ao Ensino M\u00e9dio",
+        "nome_campus": "Campus Tangara da Serra",
+        "sigla_campus": "TGA"
+    },
+    {
+        "nome_curso": "TGA - T\u00e9cnico em Recursos Humanos - Subsequente",
+        "nome_curso_historico": "T\u00e9cnico em Recursos Humanos Subsequente ao Ensino M\u00e9dio",
+        "nome_campus": "Campus Tangara da Serra",
+        "sigla_campus": "TGA"
+    },
+    {
+        "nome_curso": "TGA - T\u00e9cnico em Secretaria Escolar - 2015",
+        "nome_curso_historico": "T\u00e9cnico em Secretaria Escolar Subsequente ao Ensino M\u00e9dio",
+        "nome_campus": "Campus Tangara da Serra",
+        "sigla_campus": "TGA"
+    },
+    {
+        "nome_curso": "TGA - Tecnologia em Gest\u00e3o de Recursos Humanos",
+        "nome_curso_historico": "Curso Superior em Tecnologia em Gest\u00e3o de Recursos Humanos",
+        "nome_campus": "Campus Tangara da Serra",
+        "sigla_campus": "TGA"
+    },
+    {
+        "nome_curso": "VGD - FIC - Assistente Administrativo",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Assistente Administrativo",
+        "nome_campus": "Campus V\u00e1rzea Grande",
+        "sigla_campus": "VGD"
+    },
+    {
+        "nome_curso": "VGD - FIC - Ensino da Matem\u00e1tica para o Ensino Fundamental I - M\u00f3dulo I",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Ensino da Matem\u00e1tica para o Ensino Fundamental I - M\u00f3dulo I",
+        "nome_campus": "Campus V\u00e1rzea Grande",
+        "sigla_campus": "VGD"
+    },
+    {
+        "nome_curso": "VGD - FIC - L\u00edngua Brasileira de Sinais \u2013 Libras M\u00f3dulo B\u00e1sico",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em L\u00edngua Brasileira de Sinais - Libras - M\u00f3dulo B\u00e1sico",
+        "nome_campus": "Campus V\u00e1rzea Grande",
+        "sigla_campus": "VGD"
+    },
+    {
+        "nome_curso": "VGD - FIC - Microempreendedor Individual",
+        "nome_curso_historico": "Forma\u00e7\u00e3o Inicial e Continuada em Microempreendedor Individual",
+        "nome_campus": "Campus V\u00e1rzea Grande",
+        "sigla_campus": "VGD"
+    },
+    {
+        "nome_curso": "VGD - Tecnologia em Gest\u00e3o P\u00fablica",
+        "nome_curso_historico": "Tecnologia em Gest\u00e3o P\u00fablica",
+        "nome_campus": "Campus V\u00e1rzea Grande",
+        "sigla_campus": "VGD"
+    }
+]
